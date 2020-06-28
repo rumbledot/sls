@@ -1,0 +1,7 @@
+run 'npm install serverless -g'
+one time only to install serverless framework
+
+mkdir project_dir
+cd project_dir
+serverless create -t aws-nodejs
+
